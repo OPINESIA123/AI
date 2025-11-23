@@ -19,7 +19,7 @@ ADMIN_ID = "7936564252"  # Ganti dengan ID Telegram kamu
 
 # API Keys
 GEMINI_API_KEY = "AIzaSyBXCuOfj-ivUcq0ZFYW4do5bAmPuGFKaZo"
-OPENROUTER_API_KEY = ""  # Ganti dengan OpenRouter API key
+OPENROUTER_API_KEY = "sk-atau-v1-bb1...a3f"  # Ganti dengan OpenRouter API key
 
 # File konfigurasi
 USER_CONFIG_FILE = "user_configs.json"
